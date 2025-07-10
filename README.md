@@ -1,5 +1,3 @@
-# **DocMinimizer**
-
 # 📄 DocMinimizer
 
 DocMinimizer is an intelligent document compression and summarization tool that leverages advanced NLP and machine learning techniques to reduce the size of large textual files—such as academic reports, project documents, and research papers—without compromising meaning, structure, or readability.
